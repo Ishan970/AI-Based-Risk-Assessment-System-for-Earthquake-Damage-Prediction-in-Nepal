@@ -1,0 +1,1001 @@
+building_id,district_id,count_floors_pre_eq,count_floors_post_eq,age_building,plinth_area_sq_ft,height_ft_pre_eq,height_ft_post_eq,land_surface_condition,foundation_type,roof_type,ground_floor_type,other_floor_type,position,plan_configuration,condition_post_eq,damage_grade
+361408000911,36,2,2,6,90,12,12,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Attached-1 side,Rectangular,Damaged-Not used,Grade 4
+243803000611,24,2,2,12,180,18,18,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 3
+362407000731,36,2,2,5,330,20,20,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,RC,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Repaired and used,Grade 3
+366407000031,36,2,2,35,480,18,18,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 3
+242905000081,24,2,2,3,200,17,17,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 4
+280805010201,28,1,1,1,325,9,9,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Attached-1 side,Rectangular,Damaged-Repaired and used,Grade 3
+200203000131,20,2,2,25,380,14,14,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Used in risk,Grade 3
+236807000431,23,1,1,12,464,8,8,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Brick/Stone,Not applicable,Not attached,Rectangular,Damaged-Not used,Grade 4
+123008000491,12,2,2,12,250,16,16,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Brick/Stone,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 2
+282203001811,28,2,0,14,270,16,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+364108000131,36,2,2,48,550,12,12,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Not used,Grade 2
+236706000401,23,2,0,30,337,12,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Rubble clear,Grade 5
+242301003371,24,3,3,17,535,21,21,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 3
+280803020171,28,3,3,30,600,27,27,Flat,RC,RCC/RB/RBC,RC,RCC/RB/RBC,Not attached,Rectangular,Not damaged,Grade 1
+125301000611,12,1,1,1,510,12,12,Flat,Bamboo/Timber,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Not damaged,Grade 1
+311607001291,31,2,2,5,410,23,23,Flat,Cement-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Attached-1 side,Rectangular,Damaged-Repaired and used,Grade 1
+204207000061,20,2,0,10,450,15,0,Flat,Bamboo/Timber,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+246501003711,24,3,3,23,360,21,21,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Used in risk,Grade 2
+215402000941,21,1,1,6,160,12,12,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,Not applicable,Attached-1 side,Rectangular,Damaged-Not used,Grade 3
+290504000111,29,2,0,10,498,20,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Attached-1 side,Rectangular,Damaged-Rubble unclear,Grade 5
+245806002131,24,2,2,36,216,20,20,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+235905001281,23,2,0,4,430,12,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+210708000471,21,2,2,7,190,14,14,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Not used,Grade 4
+223508000621,22,3,3,8,304,26,26,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+241408000411,24,2,0,32,375,15,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+202703000671,20,1,0,12,296,14,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+286104001471,28,2,0,7,450,14,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+311606000921,31,2,2,0,124,14,14,Flat,Cement-Stone/Brick,Bamboo/Timber-Light roof,RC,Timber-Planck,Not attached,Rectangular,Not damaged,Grade 1
+280803010381,28,1,1,6,899,11,11,Flat,RC,RCC/RB/RBC,RC,Not applicable,Not attached,Rectangular,Not damaged,Grade 1
+237003000671,23,2,2,0,442,14,14,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Not damaged,Grade 1
+231805000281,23,2,0,30,260,13,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+365706000091,36,2,0,17,280,13,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+245603000131,24,2,2,32,310,12,12,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Not used,Grade 3
+237507000501,23,2,1,30,480,20,8,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+200504000701,20,2,1,43,726,18,8,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+290909000961,29,2,0,15,380,14,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+314404000801,31,2,1,22,378,15,10,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 3
+304909000291,30,1,1,9,300,9,9,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Attached-1 side,Rectangular,Damaged-Not used,Grade 4
+312007051672,31,2,2,13,300,22,22,Flat,RC,RCC/RB/RBC,RC,RCC/RB/RBC,Not attached,Rectangular,Not damaged,Grade 1
+231805002561,23,3,0,20,380,20,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+303603003361,30,1,0,40,144,10,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Brick/Stone,Not applicable,Not attached,Square,Damaged-Rubble clear,Grade 5
+232307000801,23,3,0,13,476,17,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+220706000531,22,3,0,25,270,17,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+212407000091,21,2,2,40,400,25,25,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Repaired and used,Grade 1
+281401000861,28,2,0,15,819,12,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+231609001331,23,2,0,2,263,14,0,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Attached-1 side,Rectangular,Damaged-Rubble unclear,Grade 5
+312011061121,31,2,2,28,1100,20,20,Flat,Mud mortar-Stone/Brick,RCC/RB/RBC,RC,RCC/RB/RBC,Not attached,Multi-projected,Not damaged,Grade 1
+312704000091,31,2,2,26,440,16,16,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Not used,Grade 4
+283503000041,28,2,1,12,672,14,6,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Repaired and used,Grade 4
+361607003631,36,2,2,7,142,18,18,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 2
+230206000461,23,3,3,50,360,18,18,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+314404000651,31,2,2,16,483,15,15,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 2
+236006000651,23,2,0,20,504,14,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+230608000461,23,2,2,8,660,18,18,Flat,Cement-Stone/Brick,RCC/RB/RBC,RC,RCC/RB/RBC,Not attached,Rectangular,Damaged-Used in risk,Grade 4
+242306012411,24,2,0,24,330,14,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+215309000831,21,3,0,45,450,19,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+214704001421,21,2,2,16,252,18,18,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 3
+282501000111,28,2,0,35,1500,16,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+301208000031,30,1,0,30,305,7,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Rubble Clear-New building built,Grade 5
+202403000331,20,2,2,5,236,15,15,Moderate slope,Cement-Stone/Brick,Bamboo/Timber-Heavy roof,RC,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 2
+123601000441,12,2,0,10,600,17,0,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Rubble Clear-New building built,Grade 5
+230407000381,23,3,0,12,1500,22,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+245505001141,24,2,1,30,700,14,7,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 4
+233407001371,23,2,0,14,399,15,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+212608000091,21,2,2,8,250,17,17,Steep slope,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,RC,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 3
+313508001141,31,2,2,23,594,16,16,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Repaired and used,Grade 3
+202503002911,20,2,2,5,300,14,14,Moderate slope,Bamboo/Timber,Bamboo/Timber-Heavy roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Used in risk,Grade 3
+312306000201,31,2,2,17,238,14,14,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 2
+222508000091,22,3,0,10,302,20,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+204003000271,20,2,2,35,400,16,16,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Brick/Stone,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 4
+365003010381,36,1,0,3,465,12,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+241602000371,24,2,2,14,405,16,16,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+222805000551,22,2,1,15,350,14,7,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+312004111151,31,2,2,5,1800,18,18,Flat,Cement-Stone/Brick,RCC/RB/RBC,RC,RCC/RB/RBC,Not attached,Rectangular,Damaged-Repaired and used,Grade 3
+361904000301,36,2,0,12,945,24,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+231603001391,23,3,0,16,263,21,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Rubble unclear,Grade 5
+280804011301,28,2,2,25,600,18,18,Flat,RC,RCC/RB/RBC,RC,RCC/RB/RBC,Attached-2 side,Rectangular,Damaged-Repaired and used,Grade 3
+280604000571,28,2,0,30,350,14,0,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+212505000101,21,2,2,19,333,16,16,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+236107000311,23,1,0,7,290,13,0,Moderate slope,Cement-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Attached-1 side,Rectangular,Damaged-Rubble Clear-New building built,Grade 5
+363905000181,36,2,2,200,180,14,14,Flat,Other,Bamboo/Timber-Light roof,Timber,Timber-Planck,Attached-2 side,Rectangular,Damaged-Used in risk,Grade 3
+124005000091,12,3,0,32,475,18,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+302207000461,30,2,0,14,304,12,0,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+246307001111,24,2,0,12,430,15,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+231802000511,23,3,0,26,350,20,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+241809000321,24,2,2,11,410,17,17,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+313206000041,31,2,2,8,510,16,16,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 1
+245305000211,24,2,2,15,320,14,14,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 3
+311602014141,31,2,2,10,355,14,14,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 3
+236405000561,23,3,0,13,459,18,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+360508000691,36,2,1,7,353,14,7,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 4
+221109000152,22,3,1,7,390,18,6,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+202504014921,20,2,2,11,205,16,16,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 4
+220405002641,22,3,0,80,303,18,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Rubble unclear,Grade 5
+363009001291,36,2,1,7,290,12,6,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Repaired and used,Grade 2
+310606021701,31,2,2,40,542,13,13,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 4
+120206000211,12,2,2,4,480,18,18,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Brick/Stone,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 3
+290607000261,29,2,0,25,390,25,0,Flat,Other,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+232802000051,23,2,0,9,288,18,0,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+312907000311,31,3,3,5,246,15,15,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Used in risk,Grade 2
+245502001101,24,2,2,50,400,14,14,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 3
+223105000351,22,3,0,5,720,19,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+365008024191,36,3,3,12,1050,21,21,Flat,RC,RCC/RB/RBC,RC,RCC/RB/RBC,Not attached,Rectangular,Damaged-Repaired and used,Grade 1
+231901000361,23,4,0,21,1190,28,0,Flat,Cement-Stone/Brick,Bamboo/Timber-Light roof,RC,Timber-Planck,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+366501000842,36,2,2,34,445,13,13,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 3
+304103001601,30,2,2,17,200,12,12,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 3
+360102000931,36,3,3,40,360,20,20,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+122208000341,12,2,2,3,380,14,14,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 1
+230401000481,23,3,0,12,680,20,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Brick/Stone,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+124404000311,12,2,2,38,380,14,15,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 1
+304909000411,30,2,2,4,520,22,22,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Not used,Grade 4
+311801000761,31,1,1,40,200,8,8,Moderate slope,Bamboo/Timber,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Used in risk,Grade 2
+310401000281,31,2,2,6,930,20,20,Flat,RC,RCC/RB/RBC,RC,RCC/RB/RBC,Attached-1 side,Rectangular,Not damaged,Grade 1
+284504000381,28,2,2,18,260,14,14,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 2
+225005001372,22,3,0,10,252,19,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+282703003661,28,3,3,25,180,25,25,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-2 side,Rectangular,Damaged-Not used,Grade 4
+361404000461,36,2,0,10,160,12,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+312010060651,31,1,1,5,318,10,10,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,RC,Not applicable,Not attached,Rectangular,Not damaged,Grade 1
+301506001131,30,2,2,17,351,14,14,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+220106000271,22,3,0,6,648,21,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble Clear-New building built,Grade 5
+214209000631,21,3,3,3,450,21,21,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Used in risk,Grade 2
+364603001041,36,2,2,33,675,14,14,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+246201001371,24,3,3,62,565,24,24,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Not used,Grade 3
+313203003721,31,1,0,18,391,10,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+231009000031,23,2,0,24,370,14,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble Clear-New building built,Grade 5
+200202000071,20,2,2,18,260,14,14,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 4
+364708000931,36,3,3,38,371,25,25,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 4
+202507011941,20,2,2,10,225,15,15,Flat,Bamboo/Timber,Bamboo/Timber-Heavy roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Used in risk,Grade 4
+242004001031,24,2,2,10,479,22,22,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 2
+312302000071,31,1,1,4,382,18,18,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Used in risk,Grade 2
+365009013471,36,2,1,15,246,18,9,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Attached-2 side,Rectangular,Damaged-Used in risk,Grade 4
+312011031021,31,2,2,10,1080,18,18,Flat,Cement-Stone/Brick,Bamboo/Timber-Light roof,RC,RCC/RB/RBC,Not attached,Rectangular,Damaged-Used in risk,Grade 2
+360105002141,36,2,0,55,400,18,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Multi-projected,Damaged-Rubble unclear,Grade 5
+203406001032,20,2,2,0,1100,20,20,Flat,RC,RCC/RB/RBC,RC,RCC/RB/RBC,Not attached,Rectangular,Not damaged,Grade 1
+365901000381,36,2,1,29,396,14,7,Flat,Cement-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Repaired and used,Grade 4
+365707000041,36,2,0,1,400,15,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+240102000491,24,2,0,20,360,12,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+236806000281,23,2,0,8,286,16,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Brick/Stone,Timber-Planck,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+312005100061,31,1,0,16,798,10,0,Flat,Mud mortar-Stone/Brick,RCC/RB/RBC,RC,Not applicable,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+301509000671,30,2,0,20,225,14,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Rubble Clear-New building built,Grade 5
+223701000801,22,3,0,27,432,18,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,Timber-Planck,Attached-1 side,Rectangular,Damaged-Rubble clear,Grade 5
+301609003751,30,3,0,42,315,22,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+246609000301,24,2,2,17,273,14,14,Flat,Cement-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 3
+302309000291,30,3,0,18,387,27,0,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,Timber-Planck,Not attached,Square,Damaged-Rubble clear,Grade 5
+302606000702,30,2,2,2,625,20,20,Flat,RC,RCC/RB/RBC,RC,RCC/RB/RBC,Not attached,Rectangular,Damaged-Used in risk,Grade 2
+311802010581,31,1,1,9,505,12,12,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Not damaged,Grade 1
+310601000161,31,2,2,40,560,25,25,Flat,Cement-Stone/Brick,Bamboo/Timber-Light roof,RC,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Not used,Grade 2
+304707000091,30,2,0,20,300,17,0,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+360404000371,36,2,2,70,240,15,15,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 2
+234008000271,23,3,0,20,486,21,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Attached-2 side,Rectangular,Damaged-Rubble clear,Grade 5
+311605003581,31,2,2,15,220,18,18,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 3
+221507000191,22,2,0,41,304,12,0,Steep slope,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+123903000181,12,2,2,38,354,17,17,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Brick/Stone,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 1
+281004001011,28,2,2,1,200,13,13,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+231401001322,23,2,2,3,920,14,14,Flat,RC,RCC/RB/RBC,Brick/Stone,RCC/RB/RBC,Not attached,Rectangular,Not damaged,Grade 1
+215201000011,21,2,2,13,532,15,15,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+304305000721,30,2,0,12,250,16,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Brick/Stone,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+246808000301,24,3,3,20,476,20,20,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 3
+314001001711,31,2,0,20,304,16,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+312011040481,31,1,1,3,250,9,9,Moderate slope,Cement-Stone/Brick,Bamboo/Timber-Light roof,Brick/Stone,Not applicable,Not attached,Rectangular,Damaged-Used in risk,Grade 2
+241309000581,24,2,2,15,350,14,14,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+311605000721,31,2,2,17,285,20,20,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 3
+200507000112,20,2,2,22,479,16,16,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 3
+214606000051,21,1,1,18,200,10,10,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Used in risk,Grade 3
+361208000441,36,1,1,2,170,8,8,Flat,Cement-Stone/Brick,Bamboo/Timber-Light roof,RC,Not applicable,Not attached,Rectangular,Damaged-Used in risk,Grade 2
+362302002032,36,1,1,8,300,8,8,Flat,Cement-Stone/Brick,Bamboo/Timber-Light roof,RC,Not applicable,Not attached,Rectangular,Damaged-Repaired and used,Grade 3
+231206000201,23,3,0,40,315,20,0,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+304805001151,30,1,1,5,414,9,9,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Attached-1 side,Rectangular,Damaged-Used in risk,Grade 3
+224205000411,22,3,0,12,200,15,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Rubble clear,Grade 5
+244705000042,24,1,0,44,340,16,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+290909000111,29,2,0,42,350,14,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+215202000261,21,2,2,80,580,15,15,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+234002002001,23,2,0,19,638,15,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+365002012601,36,2,2,7,1100,20,20,Flat,RC,RCC/RB/RBC,RC,RCC/RB/RBC,Attached-2 side,Rectangular,Not damaged,Grade 1
+361505000031,36,2,2,43,386,12,12,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,Timber-Planck,Attached-1 side,Rectangular,Damaged-Used in risk,Grade 4
+302608000811,30,3,3,50,221,21,21,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+224405000071,22,3,0,9,304,15,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+301902000171,30,3,0,32,265,21,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+214303000361,21,2,2,26,396,12,12,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 2
+361409001321,36,2,2,30,400,20,20,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Used in risk,Grade 3
+222802000711,22,2,2,15,195,16,16,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Brick/Stone,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Not used,Grade 4
+242406000481,24,3,3,49,750,36,36,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 3
+243609000251,24,2,2,9,469,16,16,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+204409000061,20,2,2,16,360,15,15,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+360805003711,36,1,1,7,340,9,9,Flat,Cement-Stone/Brick,Bamboo/Timber-Light roof,RC,Not applicable,Not attached,L-shape,Damaged-Used in risk,Grade 2
+240808000471,24,2,0,23,338,18,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+240408000471,24,3,0,35,760,18,0,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-2 side,Rectangular,Damaged-Rubble clear,Grade 5
+231102001051,23,3,2,6,644,24,16,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 4
+311307000091,31,1,1,16,550,16,16,Flat,Bamboo/Timber,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Repaired and used,Grade 1
+361802000241,36,2,2,8,472,12,12,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 3
+312903023921,31,1,1,5,304,12,12,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,RC,Not applicable,Attached-1 side,Rectangular,Not damaged,Grade 1
+200702001111,20,2,2,5,1035,19,19,Flat,Bamboo/Timber,Bamboo/Timber-Heavy roof,Brick/Stone,Timber-Planck,Not attached,L-shape,Damaged-Repaired and used,Grade 2
+242307011101,24,3,3,20,510,21,21,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Used in risk,Grade 3
+248908001351,24,3,0,40,405,17,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+300108000151,30,2,0,35,230,12,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+361607002201,36,2,2,25,142,15,15,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+235503000311,23,3,0,15,99,99,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+220808000891,22,1,0,6,224,6,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+245002001021,24,2,2,38,412,20,20,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 3
+360101000571,36,3,0,37,280,20,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble Clear-New building built,Grade 5
+220108000211,22,3,0,12,299,24,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+242006000042,24,2,2,999,358,22,22,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+212709000781,21,2,2,60,120,12,12,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Brick/Stone,Timber-Planck,Not attached,Rectangular,Damaged-Not used,Grade 3
+313905001211,31,2,2,7,384,15,15,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 4
+243204000302,24,1,1,18,252,6,6,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Repaired and used,Grade 2
+240301000412,24,2,2,24,342,22,22,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+366702001211,36,2,0,20,320,18,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,Timber-Planck,Attached-1 side,Rectangular,Damaged-Rubble unclear,Grade 5
+121904000382,12,3,3,1,288,15,15,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Not damaged,Grade 1
+362301000821,36,2,2,12,380,16,16,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 4
+304706000621,30,2,2,35,350,17,17,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Attached-1 side,Rectangular,Damaged-Repaired and used,Grade 2
+210306000661,21,2,0,30,364,13,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+283602000171,28,2,0,7,270,17,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+246510006101,24,2,2,3,860,18,18,Flat,RC,RCC/RB/RBC,RC,RCC/RB/RBC,Attached-1 side,Rectangular,Not damaged,Grade 1
+201807000331,20,2,2,8,225,15,15,Flat,Bamboo/Timber,Bamboo/Timber-Heavy roof,RC,Timber-Planck,Not attached,Rectangular,Damaged-Used in risk,Grade 2
+310209000791,31,2,2,30,375,12,12,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 3
+290607000462,29,2,0,25,310,25,0,Flat,Other,Bamboo/Timber-Light roof,Mud,Timber-Planck,Attached-1 side,Rectangular,Damaged-Rubble unclear,Grade 5
+360803001831,36,3,3,21,260,18,18,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 3
+284805002411,28,2,0,15,288,12,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Rubble unclear,Grade 5
+249001002681,24,3,4,8,832,27,36,Flat,RC,RCC/RB/RBC,RC,RCC/RB/RBC,Attached-1 side,Rectangular,Damaged-Repaired and used,Grade 1
+303704001011,30,2,2,14,430,16,16,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 3
+242108000581,24,1,0,3,110,7,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Attached-2 side,Rectangular,Damaged-Rubble clear,Grade 5
+244201000251,24,2,2,5,594,16,16,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 3
+313708003351,31,2,2,10,800,26,26,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Not damaged,Grade 1
+223509000191,22,3,0,14,305,26,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+211305000152,21,2,2,45,299,13,13,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 2
+233509000131,23,2,0,17,575,14,0,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble Clear-New building built,Grade 5
+361805001081,36,2,2,12,360,14,14,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 4
+233505000172,23,2,1,20,271,13,6,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Square,Damaged-Repaired and used,Grade 5
+280803010451,28,1,1,5,288,8,8,Moderate slope,Cement-Stone/Brick,Bamboo/Timber-Light roof,Brick/Stone,Not applicable,Attached-1 side,Rectangular,Not damaged,Grade 1
+300409001521,30,1,1,4,210,8,8,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Repaired and used,Grade 4
+282907000471,28,2,0,8,775,16,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Brick/Stone,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+303505052921,30,2,2,1,338,18,18,Flat,RC,RCC/RB/RBC,RC,RCC/RB/RBC,Not attached,Rectangular,Not damaged,Grade 1
+237402000201,23,3,1,35,345,16,6,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+245708001831,24,2,2,15,392,18,18,Flat,Cement-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+232007000521,23,2,0,15,364,16,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+246402000541,24,2,0,22,450,14,0,Flat,Cement-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Rubble clear,Grade 5
+247401000171,24,2,2,16,384,18,18,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 5
+312905001691,31,1,1,3,263,11,11,Flat,Bamboo/Timber,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Not damaged,Grade 1
+230204001771,23,3,0,39,337,18,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Attached-2 side,Rectangular,Damaged-Rubble unclear,Grade 5
+231709000511,23,2,0,40,320,16,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+223204000341,22,2,0,12,312,22,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+282203000081,28,2,0,50,254,18,0,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Rubble unclear,Grade 5
+361409000251,36,2,2,18,300,20,20,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+246802000971,24,2,2,7,392,18,18,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 2
+281209000551,28,3,0,38,275,20,0,Steep slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Brick/Stone,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Rubble unclear,Grade 5
+220809000171,22,2,0,15,305,13,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Rubble unclear,Grade 5
+243605001991,24,2,2,45,286,16,16,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+301301020611,30,2,0,99,264,12,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+300804000281,30,2,0,4,420,25,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+303401003231,30,2,0,60,360,18,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+231803000771,23,2,0,15,155,13,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+365004015891,36,1,1,8,852,9,9,Flat,RC,RCC/RB/RBC,RC,Not applicable,Attached-1 side,Rectangular,Not damaged,Grade 1
+311904002471,31,1,1,2,363,7,7,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,RC,Not applicable,Not attached,L-shape,Damaged-Repaired and used,Grade 2
+214704000841,21,2,2,2,1350,18,18,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 2
+300503000861,30,2,2,15,315,18,18,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+236903000791,23,3,0,28,510,18,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+224301000361,22,2,1,48,312,12,6,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+300409000051,30,1,1,3,265,9,9,Flat,Other,Bamboo/Timber-Light roof,Mud,Not applicable,Attached-1 side,Rectangular,Not damaged,Grade 1
+242308001451,24,3,3,23,496,27,27,Flat,RC,RCC/RB/RBC,RC,RCC/RB/RBC,Attached-1 side,Rectangular,Not damaged,Grade 1
+282608000921,28,2,0,50,400,20,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+314002021241,31,2,2,3,246,13,13,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 3
+121808000272,12,2,2,20,273,15,15,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 4
+302104000921,30,1,0,28,290,10,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+231808001491,23,1,0,13,154,12,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Attached-1 side,Rectangular,Damaged-Rubble clear,Grade 5
+366507000741,36,2,0,13,510,15,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+310801001881,31,2,2,40,360,18,18,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 2
+311806010561,31,1,1,15,714,9,9,Flat,Bamboo/Timber,Bamboo/Timber-Light roof,Mud,Not applicable,Attached-1 side,Rectangular,Damaged-Repaired and used,Grade 2
+280606000651,28,3,3,6,280,16,16,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+245004001551,24,2,2,9,370,20,20,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 3
+204603000911,20,2,2,7,546,17,17,Flat,Bamboo/Timber,Bamboo/Timber-Heavy roof,Mud,Timber-Planck,Not attached,L-shape,Damaged-Used in risk,Grade 4
+301301020751,30,2,2,13,264,14,14,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+301707000401,30,2,0,5,450,16,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+203709000151,20,2,2,4,338,16,16,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Not damaged,Grade 1
+364708001681,36,3,0,32,322,20,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+360802000391,36,2,2,32,280,16,16,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+224008001642,22,2,0,15,400,15,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Rubble Clear-New building built,Grade 5
+285504001481,28,2,0,36,234,14,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+245407000941,24,2,2,28,589,20,20,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,L-shape,Damaged-Not used,Grade 4
+286205000171,28,2,0,25,350,12,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+202005001092,20,1,1,3,264,6,6,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Repaired and used,Grade 2
+360709000091,36,1,1,7,500,10,10,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Not used,Grade 4
+310309000701,31,1,1,13,250,8,8,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Not used,Grade 2
+231705002851,23,2,0,37,315,14,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+360508000561,36,2,0,10,565,14,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+231609003351,23,3,0,26,263,21,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Rubble unclear,Grade 5
+240807000991,24,2,2,36,348,20,20,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Not used,Grade 3
+235806000321,23,1,0,10,320,7,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+232808000411,23,2,1,7,546,18,12,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Repaired and used,Grade 4
+291306000741,29,2,0,20,500,20,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Brick/Stone,TImber/Bamboo-Mud,Attached-2 side,Rectangular,Damaged-Rubble unclear,Grade 5
+303702000981,30,3,3,4,1428,30,30,Flat,RC,RCC/RB/RBC,RC,RCC/RB/RBC,Attached-1 side,Rectangular,Not damaged,Grade 1
+286109000731,28,2,2,3,700,18,18,Flat,RC,RCC/RB/RBC,RC,RCC/RB/RBC,Not attached,Rectangular,Damaged-Repaired and used,Grade 1
+362306000821,36,1,1,50,165,10,10,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Attached-1 side,Rectangular,Damaged-Used in risk,Grade 2
+246602001072,24,2,2,2,480,12,12,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+241509000051,24,2,1,41,344,20,6,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+205205000291,20,2,0,27,196,10,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+304208000211,30,3,2,20,247,24,16,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Repaired and used,Grade 4
+312009070661,31,1,1,12,750,10,10,Flat,Cement-Stone/Brick,RCC/RB/RBC,RC,Not applicable,Not attached,Rectangular,Not damaged,Grade 1
+231505000401,23,2,1,40,551,14,9,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Brick/Stone,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 4
+232002000591,23,3,0,13,588,21,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+237706000081,23,3,0,59,264,20,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Rubble unclear,Grade 5
+360407000531,36,2,2,23,200,14,14,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Not used,Grade 4
+213907000301,21,1,1,20,255,10,10,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Attached-1 side,Rectangular,Damaged-Not used,Grade 4
+285001000331,28,3,2,22,972,24,16,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,L-shape,Damaged-Repaired and used,Grade 4
+284106001331,28,2,2,16,288,15,15,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+210201001151,21,2,2,6,200,12,12,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Not used,Grade 3
+203907000521,20,2,2,3,500,14,14,Moderate slope,Bamboo/Timber,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 1
+300701001101,30,2,0,25,480,13,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+222805000761,22,3,1,8,540,21,7,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Not used,Grade 4
+203705000081,20,1,1,2,275,7,7,Flat,Bamboo/Timber,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Not damaged,Grade 1
+280803013431,28,1,1,6,300,7,7,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Used in risk,Grade 4
+364607001001,36,2,2,22,170,14,14,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Attached-1 side,Rectangular,Damaged-Not used,Grade 4
+235302000421,23,3,1,15,360,18,6,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Repaired and used,Grade 4
+314205000581,31,2,2,60,262,13,13,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 4
+365105000031,36,2,2,15,260,16,16,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Timber,TImber/Bamboo-Mud,Attached-3 side,Rectangular,Damaged-Used in risk,Grade 3
+304204000241,30,2,2,10,247,20,20,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 4
+233309000221,23,2,1,3,648,14,7,Flat,Cement-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+234704000951,23,3,0,15,468,31,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+243608000891,24,3,3,20,405,20,20,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 5
+303305001731,30,1,1,50,120,14,14,Steep slope,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Not used,Grade 3
+235502000351,23,3,0,31,170,24,0,Flat,Cement-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+236702001061,23,2,0,10,400,18,0,Steep slope,Cement-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Rubble unclear,Grade 5
+122109000041,12,2,2,16,375,12,12,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Not used,Grade 5
+235809001871,23,2,0,25,627,14,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+311008001341,31,2,2,23,196,18,18,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 3
+224604001081,22,1,1,4,529,6,6,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Used in risk,Grade 3
+283601000441,28,1,1,22,378,12,12,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Not used,Grade 4
+236108000021,23,2,0,5,340,19,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble Clear-New building built,Grade 5
+242309001111,24,2,2,14,451,12,12,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Attached-1 side,Rectangular,Damaged-Used in risk,Grade 4
+365011021351,36,2,2,99,300,19,19,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 3
+235803001811,23,3,0,43,320,16,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+213401001721,21,3,3,25,306,19,19,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 3
+224909000731,22,3,0,20,798,18,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+236903002002,23,3,1,5,302,17,7,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Not used,Grade 3
+211003000331,21,3,3,20,290,21,21,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 3
+303105010131,30,3,0,55,185,18,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble Clear-New building built,Grade 5
+364402000711,36,2,0,8,275,14,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+310405012661,31,1,1,4,748,8,8,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,RC,Not applicable,Not attached,L-shape,Damaged-Used in risk,Grade 3
+246105000771,24,2,2,67,264,16,16,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+300807000792,30,2,2,45,300,25,25,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Not used,Grade 2
+281605000041,28,3,3,39,400,24,24,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Brick/Stone,TImber/Bamboo-Mud,Not attached,Square,Damaged-Repaired and used,Grade 4
+246507000881,24,2,2,20,480,18,18,Flat,Mud mortar-Stone/Brick,RCC/RB/RBC,RC,RCC/RB/RBC,Not attached,Rectangular,Damaged-Repaired and used,Grade 4
+221104000111,22,3,2,11,625,18,12,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Square,Damaged-Repaired and used,Grade 4
+232101000741,23,3,0,13,352,26,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Attached-1 side,Rectangular,Damaged-Rubble clear,Grade 5
+246601000501,24,2,0,13,320,12,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-2 side,Rectangular,Damaged-Rubble clear,Grade 5
+249005000791,24,2,1,29,382,15,7,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Not used,Grade 4
+224404010231,22,3,3,1,286,24,24,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+222601000191,22,2,2,12,455,16,16,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+312804003381,31,2,2,16,366,15,15,Steep slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Repaired and used,Grade 1
+361207000201,36,2,0,11,100,12,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+312901001161,31,2,2,13,160,12,12,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Not damaged,Grade 1
+234805001561,23,3,0,10,320,20,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+300508001171,30,2,0,25,300,16,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+203102001841,20,2,2,13,310,19,19,Flat,Bamboo/Timber,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 2
+224704001041,22,3,0,4,324,18,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble Clear-New building built,Grade 5
+213007000371,21,2,0,50,225,12,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+304806000821,30,2,0,30,250,12,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Rubble clear,Grade 5
+234504000611,23,2,0,10,320,18,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+240507000611,24,1,1,10,300,10,10,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Used in risk,Grade 4
+237506000041,23,2,0,52,1015,20,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+222104000261,22,2,0,14,252,18,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Brick/Stone,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+247102000102,24,2,2,10,150,14,14,Flat,Mud mortar-Stone/Brick,RCC/RB/RBC,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Not used,Grade 4
+280901000231,28,3,2,40,350,19,14,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Not used,Grade 4
+285007000261,28,2,0,25,235,15,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Rubble unclear,Grade 5
+235805000111,23,2,1,82,344,12,6,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+291401000301,29,2,0,30,380,18,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Brick/Stone,Timber-Planck,Attached-2 side,Rectangular,Damaged-Rubble unclear,Grade 5
+365308001751,36,2,0,999,230,20,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+364003000221,36,2,2,32,200,13,13,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 3
+230701000771,23,2,0,21,400,18,0,Steep slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+214702000201,21,2,2,20,360,16,16,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+245403000241,24,2,2,25,305,18,18,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Not used,Grade 2
+234804000441,23,2,0,25,350,18,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Rubble unclear,Grade 5
+314409001331,31,2,2,12,290,21,21,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Used in risk,Grade 3
+224701001001,22,3,0,33,312,21,0,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+204006000011,20,2,0,8,308,21,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+202009004101,20,2,0,5,262,16,0,Steep slope,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Rubble Clear-New building built,Grade 5
+310401002871,31,2,2,7,600,16,16,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Repaired and used,Grade 3
+283509002481,28,2,1,3,772,15,7,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+236203000041,23,2,0,20,441,13,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Square,Damaged-Rubble clear,Grade 5
+233701000852,23,1,1,5,400,10,10,Steep slope,RC,RCC/RB/RBC,RC,Not applicable,Not attached,Square,Not damaged,Grade 1
+201603010131,20,2,2,15,482,13,13,Moderate slope,Bamboo/Timber,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 2
+237308000571,23,2,0,1,336,12,0,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+364605001521,36,2,0,35,338,14,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Rubble unclear,Grade 5
+314209000991,31,1,1,8,150,9,9,Flat,Bamboo/Timber,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Repaired and used,Grade 2
+247204001081,24,2,0,15,450,16,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+282706001601,28,1,0,12,247,15,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+312903022111,31,1,1,7,304,9,9,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,RC,Not applicable,Attached-2 side,Rectangular,Not damaged,Grade 1
+300605001461,30,1,1,20,550,7,7,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,L-shape,Damaged-Used in risk,Grade 4
+311701000011,31,1,0,29,295,10,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+244307001891,24,2,2,0,805,18,18,Flat,RC,RCC/RB/RBC,RC,RCC/RB/RBC,Attached-1 side,Rectangular,Not damaged,Grade 1
+300108000502,30,2,2,4,160,12,12,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Attached-1 side,Rectangular,Damaged-Repaired and used,Grade 3
+223201000371,22,3,0,25,432,18,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+286001000501,28,2,0,32,354,18,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Rubble unclear,Grade 5
+314006010131,31,1,1,4,275,8,8,Flat,Cement-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Used in risk,Grade 3
+225207000211,22,2,0,32,234,15,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+301002000531,30,2,2,8,190,12,12,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Not used,Grade 4
+291004001621,29,2,0,15,265,14,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+302908001551,30,3,3,60,340,16,16,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Brick/Stone,TImber/Bamboo-Mud,Attached-3 side,Rectangular,Damaged-Not used,Grade 4
+360606000731,36,2,2,28,396,12,12,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+312004041401,31,2,2,30,890,20,20,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Brick/Stone,Timber-Planck,Not attached,L-shape,Damaged-Used in risk,Grade 3
+311408000281,31,2,2,10,494,12,12,Flat,Bamboo/Timber,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,L-shape,Not damaged,Grade 1
+280507001341,28,3,0,60,360,30,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Rubble unclear,Grade 5
+200402000671,20,2,2,30,600,12,12,Moderate slope,Bamboo/Timber,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 4
+243904000181,24,2,2,3,205,22,22,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 4
+211204001261,21,2,2,20,300,15,15,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+202105001391,20,2,2,22,220,20,20,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Not used,Grade 3
+123107000671,12,3,3,3,298,17,17,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Repaired and used,Grade 3
+280809012901,28,1,1,10,930,9,9,Flat,RC,RCC/RB/RBC,RC,Not applicable,Not attached,Rectangular,Damaged-Repaired and used,Grade 1
+200807000252,20,2,0,27,350,14,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+365007003762,36,3,0,52,225,18,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+225208000192,22,2,2,28,205,14,14,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+241706000211,24,2,2,42,527,15,15,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+311606001211,31,2,2,999,450,14,14,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Not damaged,Grade 1
+202706000171,20,2,2,11,476,14,14,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Repaired and used,Grade 3
+200701001011,20,2,0,23,540,16,0,Moderate slope,Bamboo/Timber,Bamboo/Timber-Heavy roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+302509001191,30,1,1,25,180,7,7,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Repaired and used,Grade 2
+361206000031,36,2,2,45,266,12,12,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 3
+242105001071,24,2,2,32,300,20,20,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Attached-2 side,Rectangular,Damaged-Not used,Grade 3
+314006010471,31,1,1,10,525,11,11,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Repaired and used,Grade 2
+362308001091,36,3,3,15,210,14,14,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 4
+310104000491,31,2,2,10,540,12,12,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+363209000411,36,2,0,4,330,11,0,Steep slope,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+285702000572,28,3,3,33,264,21,21,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 3
+304409000061,30,1,1,12,396,8,8,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Brick/Stone,Not applicable,Not attached,Rectangular,Damaged-Not used,Grade 4
+366308000151,36,2,2,7,270,17,17,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+291801010431,29,2,2,14,420,13,13,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Attached-2 side,Rectangular,Damaged-Not used,Grade 4
+301704000121,30,3,3,12,598,24,24,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Not used,Grade 4
+284201000061,28,2,0,35,520,16,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Attached-1 side,Rectangular,Damaged-Rubble unclear,Grade 5
+365011022591,36,3,0,23,500,20,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+303401002182,30,2,2,15,439,16,16,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Not used,Grade 3
+303109090021,30,2,0,18,280,18,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+237705000432,23,3,0,22,308,20,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Rubble unclear,Grade 5
+242606000202,24,1,0,9,472,10,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+302101001191,30,3,0,18,294,24,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Brick/Stone,TImber/Bamboo-Mud,Not attached,Square,Damaged-Rubble clear,Grade 5
+212301000353,21,2,2,11,315,16,16,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+282307000071,28,2,0,25,303,14,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+304803001041,30,2,0,7,495,15,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+237105001371,23,3,0,11,321,27,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+304804002971,30,2,2,36,315,20,20,Flat,Cement-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+240611022881,24,3,3,12,450,27,27,Moderate slope,RC,RCC/RB/RBC,RC,RCC/RB/RBC,Attached-2 side,Rectangular,Damaged-Used in risk,Grade 2
+122706000521,12,2,2,17,283,16,16,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 3
+233107000491,23,2,0,30,299,12,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+204705001011,20,2,2,15,350,20,20,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+123406000311,12,3,3,23,192,16,16,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Repaired and used,Grade 1
+302305001491,30,2,2,12,360,12,12,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Not used,Grade 3
+220803000121,22,1,1,18,675,7,7,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Attached-1 side,Rectangular,Damaged-Not used,Grade 4
+313901000111,31,2,2,2,594,16,16,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Used in risk,Grade 4
+210107000661,21,3,3,3,560,21,21,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,Timber-Planck,Attached-1 side,Rectangular,Damaged-Not used,Grade 3
+224801000331,22,2,0,15,504,15,0,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+120306000591,12,2,2,13,336,19,19,Steep slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 3
+222107000741,22,3,3,7,187,18,18,Flat,Cement-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Not used,Grade 3
+243103000481,24,2,2,22,612,14,14,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+200706000391,20,2,2,5,420,14,14,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 2
+363208000011,36,2,2,3,400,11,11,Steep slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 4
+220508000511,22,3,0,22,228,23,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+221308000501,22,3,0,40,357,17,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+202604000161,20,2,2,10,580,16,16,Flat,Bamboo/Timber,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,T-shape,Damaged-Used in risk,Grade 3
+202802000071,20,2,2,6,312,14,14,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 2
+210801001161,21,2,2,15,494,15,15,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Attached-2 side,Rectangular,Damaged-Repaired and used,Grade 3
+214306000681,21,2,2,50,396,12,12,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+313408022691,31,2,2,23,260,16,16,Flat,Bamboo/Timber,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 4
+290102001291,29,2,0,12,245,12,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+242109002151,24,3,0,30,320,18,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Rubble unclear,Grade 5
+282907002541,28,3,1,28,440,24,8,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Brick/Stone,TImber/Bamboo-Mud,Attached-1 side,Square,Damaged-Repaired and used,Grade 4
+311102012151,31,1,1,7,486,12,12,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,RC,Not applicable,Not attached,Rectangular,Not damaged,Grade 1
+203603001081,20,2,2,4,495,24,24,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 4
+232006000971,23,2,0,18,208,14,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+363904000111,36,2,0,70,300,17,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,Timber-Planck,Attached-1 side,Rectangular,Damaged-Rubble unclear,Grade 5
+313604001051,31,1,1,7,204,10,10,Flat,Bamboo/Timber,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Used in risk,Grade 4
+123509000901,12,2,2,32,401,16,16,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+303106000391,30,1,1,10,240,9,9,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Attached-1 side,Rectangular,Damaged-Repaired and used,Grade 4
+310103000281,31,2,2,20,200,14,14,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Not used,Grade 4
+302905000981,30,3,0,25,265,17,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Brick/Stone,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+247604000261,24,1,1,5,702,9,9,Flat,Cement-Stone/Brick,RCC/RB/RBC,RC,Not applicable,Not attached,Rectangular,Damaged-Repaired and used,Grade 1
+313007000801,31,1,0,20,145,7,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Attached-1 side,Rectangular,Damaged-Rubble unclear,Grade 5
+220205000781,22,2,0,7,640,14,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+200308000491,20,1,1,25,230,12,12,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Not damaged,Grade 1
+240208000201,24,3,3,14,576,27,27,Flat,RC,RCC/RB/RBC,RC,RCC/RB/RBC,Not attached,Square,Not damaged,Grade 1
+284508000531,28,4,4,3,830,36,36,Flat,Cement-Stone/Brick,RCC/RB/RBC,RC,RCC/RB/RBC,Not attached,Rectangular,Damaged-Repaired and used,Grade 1
+362206000171,36,2,2,2,425,13,13,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 3
+282002000451,28,3,1,20,303,18,6,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 4
+204109000941,20,2,2,15,640,22,22,Flat,Bamboo/Timber,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 3
+220411002541,22,3,0,18,309,15,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+246407000371,24,2,0,50,450,13,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+284109000871,28,3,3,30,264,18,18,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Not used,Grade 4
+301204001181,30,2,2,20,308,20,20,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Brick/Stone,TImber/Bamboo-Mud,Attached-2 side,Rectangular,Damaged-Not used,Grade 4
+283502001011,28,2,0,12,660,14,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+280809042171,28,2,0,12,180,17,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-2 side,Rectangular,Damaged-Rubble unclear,Grade 5
+280104001141,28,3,0,14,250,21,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+361406003411,36,2,0,1,300,16,0,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+247407000181,24,1,1,35,350,10,10,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Not used,Grade 4
+310401002661,31,1,1,5,700,10,10,Flat,RC,RCC/RB/RBC,RC,Not applicable,Not attached,Rectangular,Damaged-Used in risk,Grade 2
+304607000811,30,3,3,28,280,21,21,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 4
+314001002401,31,2,2,12,304,12,12,Flat,Bamboo/Timber,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 3
+220704000171,22,2,0,2,165,11,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+211806000791,21,2,2,10,310,12,12,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 4
+220408011951,22,3,0,28,252,21,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+210507000071,21,2,2,28,212,12,12,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+303203000801,30,2,1,42,500,20,10,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 4
+365806000891,36,2,2,50,210,18,18,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 2
+311605002761,31,2,2,15,310,18,18,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Repaired and used,Grade 2
+242303030461,24,4,4,80,250,28,28,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Brick/Stone,TImber/Bamboo-Mud,Attached-3 side,Rectangular,Damaged-Not used,Grade 3
+362802000371,36,2,0,26,364,18,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Rubble Clear-New building built,Grade 5
+204503000151,20,2,2,8,350,15,15,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 4
+303505011571,30,3,3,12,350,27,27,Flat,RC,RCC/RB/RBC,RC,RCC/RB/RBC,Attached-2 side,Rectangular,Not damaged,Grade 1
+212807000131,21,2,2,22,1369,19,19,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Used in risk,Grade 2
+200207000571,20,2,2,15,310,14,14,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 1
+202409000871,20,1,1,14,320,9,9,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Used in risk,Grade 3
+301909002091,30,3,3,44,264,16,16,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Not used,Grade 4
+312005021111,31,2,2,3,1100,18,18,Flat,RC,RCC/RB/RBC,RC,RCC/RB/RBC,Not attached,Rectangular,Not damaged,Grade 1
+201607000061,20,1,1,22,482,9,9,Moderate slope,Bamboo/Timber,Bamboo/Timber-Heavy roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Used in risk,Grade 3
+300304000711,30,2,0,15,325,16,0,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Rubble clear,Grade 5
+201901000461,20,2,2,4,300,20,20,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 4
+246601000691,24,2,0,17,432,12,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+220805000081,22,2,0,22,385,13,0,Flat,Cement-Stone/Brick,Bamboo/Timber-Light roof,Brick/Stone,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Rubble unclear,Grade 5
+231606002041,23,3,0,18,310,21,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+246302000681,24,3,3,15,300,20,20,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 3
+303003001201,30,3,0,40,580,27,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Brick/Stone,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+222408010721,22,3,0,50,400,20,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+125309000081,12,2,2,12,236,12,12,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Not damaged,Grade 1
+223701001141,22,2,0,22,496,12,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+282907001021,28,2,0,2,552,16,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Brick/Stone,TImber/Bamboo-Mud,Not attached,Square,Damaged-Rubble clear,Grade 5
+311103001151,31,2,2,11,1500,20,20,Flat,RC,RCC/RB/RBC,RC,RCC/RB/RBC,Not attached,Rectangular,Damaged-Repaired and used,Grade 3
+312004110541,31,1,1,3,1500,9,9,Steep slope,RC,RCC/RB/RBC,RC,Not applicable,Attached-1 side,Rectangular,Damaged-Used in risk,Grade 2
+283406000231,28,2,0,90,440,18,0,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble Clear-New building built,Grade 5
+215404000801,21,2,2,45,392,18,18,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 4
+211904001191,21,1,1,15,367,8,8,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Not used,Grade 4
+314007002331,31,1,1,22,248,12,12,Flat,Bamboo/Timber,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Repaired and used,Grade 2
+282307000081,28,2,0,8,303,14,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+248107000821,24,2,2,22,447,30,30,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 3
+364909000571,36,2,0,16,187,13,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Rubble clear,Grade 5
+300703001251,30,2,2,13,320,14,14,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+224203001281,22,3,0,11,366,15,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+242008000031,24,3,3,26,276,18,18,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 3
+281306001681,28,3,0,25,400,25,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Brick/Stone,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+247107000361,24,1,1,7,450,7,7,Flat,RC,RCC/RB/RBC,RC,Not applicable,Not attached,Rectangular,Damaged-Repaired and used,Grade 2
+301804010401,30,2,2,25,1622,19,19,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Not used,Grade 4
+234904000391,23,2,0,15,304,14,0,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Rubble clear,Grade 5
+233902000651,23,2,0,25,300,12,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+212604001111,21,2,2,12,540,18,18,Steep slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 3
+243601000261,24,3,1,20,400,18,7,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+232106000381,23,2,0,14,384,11,0,Steep slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+223203000481,22,3,0,30,360,21,0,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+235105000541,23,2,0,17,500,14,0,Steep slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+365004014971,36,2,2,4,523,14,14,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,RC,RCC/RB/RBC,Not attached,Rectangular,Damaged-Not used,Grade 4
+202906000281,20,2,0,18,779,21,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+122801000411,12,1,1,5,300,6,6,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Not damaged,Grade 1
+313508000621,31,2,2,46,576,18,18,Flat,Cement-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Square,Damaged-Not used,Grade 4
+204206000621,20,2,2,4,600,18,18,Moderate slope,Bamboo/Timber,Bamboo/Timber-Heavy roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Repaired and used,Grade 2
+236906000401,23,2,2,80,180,22,22,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Not used,Grade 4
+283707000551,28,2,0,30,450,17,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Brick/Stone,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Rubble clear,Grade 5
+241805000411,24,3,0,10,400,18,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+304906000481,30,1,1,40,400,8,8,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Not used,Grade 4
+312809001531,31,2,2,22,300,14,14,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 3
+223609000131,22,3,0,30,305,21,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+304802002661,30,1,1,2,900,10,10,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,RC,Not applicable,Not attached,Rectangular,Damaged-Used in risk,Grade 2
+311808004041,31,2,2,15,300,13,13,Flat,Bamboo/Timber,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Not damaged,Grade 1
+234303000861,23,3,3,8,1066,21,21,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,RC,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+233905001231,23,3,0,0,360,18,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+280109001431,28,2,0,12,380,14,0,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+290908000051,29,2,0,22,180,14,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Square,Damaged-Rubble clear,Grade 5
+230502002071,23,2,0,18,291,14,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+365005002232,36,3,3,10,864,27,27,Moderate slope,RC,RCC/RB/RBC,RC,RCC/RB/RBC,Not attached,Rectangular,Not damaged,Grade 1
+313509000371,31,2,2,36,591,16,16,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,Timber-Planck,Attached-1 side,Rectangular,Damaged-Repaired and used,Grade 2
+237102000061,23,3,3,22,345,26,26,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 3
+302307000361,30,2,0,5,330,20,0,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Rubble Clear-New building built,Grade 5
+313709000251,31,2,1,18,192,22,11,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Repaired and used,Grade 4
+210603000561,21,2,2,16,325,16,19,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 3
+223306010281,22,1,0,12,310,10,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+222001000141,22,2,0,12,155,16,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble Clear-New building built,Grade 5
+365806001011,36,2,2,2,130,15,15,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Square,Not damaged,Grade 1
+282808000451,28,1,0,13,265,6,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Brick/Stone,Not applicable,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+241405000271,24,2,0,40,500,15,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+301301011011,30,1,1,4,600,9,9,Flat,RC,RCC/RB/RBC,RC,Not applicable,Attached-1 side,Rectangular,Damaged-Used in risk,Grade 2
+236801000191,23,1,0,4,200,7,0,Flat,Bamboo/Timber,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+303606000451,30,2,0,8,168,12,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Brick/Stone,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Rubble unclear,Grade 5
+313707000861,31,2,2,15,300,20,20,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Not damaged,Grade 1
+202601000361,20,2,0,17,322,17,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+201309000561,20,2,2,20,180,11,11,Flat,Bamboo/Timber,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 4
+310502000521,31,2,2,10,495,17,17,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 4
+232706001001,23,3,3,12,360,17,17,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 3
+366101000761,36,2,0,20,470,14,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+282704000551,28,2,0,27,310,16,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-2 side,Rectangular,Damaged-Rubble unclear,Grade 5
+312401001401,31,1,1,3,240,15,15,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,RC,Not applicable,Not attached,Rectangular,Damaged-Not used,Grade 2
+202304000541,20,1,1,18,400,7,7,Flat,Bamboo/Timber,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Repaired and used,Grade 2
+201408000241,20,1,1,18,300,16,16,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Repaired and used,Grade 2
+361705000491,36,2,2,30,280,16,16,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,RC,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+284103000071,28,3,3,60,300,24,24,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Brick/Stone,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+203105000071,20,2,2,17,324,20,20,Flat,Cement-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Used in risk,Grade 3
+291408000021,29,2,0,22,640,16,0,Flat,Cement-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Square,Damaged-Rubble unclear,Grade 5
+283001000862,28,2,0,5,546,18,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+234408000251,23,2,0,8,220,14,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+303905000631,30,2,2,1,280,14,14,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 2
+202805000051,20,1,1,17,336,10,10,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Repaired and used,Grade 3
+300702020381,30,2,2,35,250,14,14,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 3
+312010010931,31,1,1,7,1483,9,9,Flat,RC,RCC/RB/RBC,RC,Not applicable,Attached-2 side,Rectangular,Damaged-Used in risk,Grade 2
+236106000091,23,2,0,30,360,19,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+236109000521,23,1,0,8,530,7,0,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+214601000331,21,1,1,30,130,11,11,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Used in risk,Grade 4
+361401000821,36,1,1,14,484,8,8,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Square,Damaged-Not used,Grade 4
+220504000311,22,3,3,4,228,23,23,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 3
+362102010911,36,2,0,32,213,14,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Rubble Clear-New building built,Grade 5
+231805001961,23,3,0,6,300,20,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble Clear-New building built,Grade 5
+290303000151,29,2,0,2,301,18,0,Flat,Bamboo/Timber,Bamboo/Timber-Light roof,Mud,Timber-Planck,Attached-1 side,Rectangular,Damaged-Rubble Clear-New building built,Grade 5
+243607003281,24,2,0,90,425,16,0,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+212901001643,21,3,2,15,312,21,15,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,RC,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 3
+312902030401,31,1,1,0,480,19,19,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,RC,Not applicable,Not attached,Rectangular,Not damaged,Grade 1
+302607020701,30,2,0,25,244,12,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+242008000711,24,3,0,8,224,17,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+213803000521,21,2,2,25,350,12,12,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 3
+365702000041,36,3,3,90,910,22,22,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,Timber-Planck,Not attached,Square,Damaged-Not used,Grade 3
+300207001611,30,1,0,21,294,10,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+283606000251,28,2,0,25,285,15,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+303903001141,30,2,2,15,240,14,14,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 3
+311102020651,31,1,1,12,1142,10,10,Flat,Cement-Stone/Brick,RCC/RB/RBC,RC,Not applicable,Not attached,Rectangular,Damaged-Repaired and used,Grade 3
+240504000322,24,2,2,15,300,12,12,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 3
+246501001621,24,3,2,57,408,21,16,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Repaired and used,Grade 3
+202904000361,20,1,1,2,255,8,8,Flat,Bamboo/Timber,Bamboo/Timber-Light roof,Mud,Not applicable,Attached-1 side,Rectangular,Not damaged,Grade 1
+213901000251,21,2,2,52,336,15,15,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+313401012201,31,1,1,1,1200,11,11,Flat,Cement-Stone/Brick,RCC/RB/RBC,RC,Not applicable,Not attached,Rectangular,Not damaged,Grade 1
+284103001541,28,2,0,47,200,16,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Brick/Stone,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Rubble unclear,Grade 5
+312011071381,31,1,1,1,350,9,9,Flat,Cement-Stone/Brick,Bamboo/Timber-Heavy roof,RC,Not applicable,Attached-2 side,Square,Not damaged,Grade 1
+303009000391,30,2,0,31,420,18,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+246513001761,24,2,2,26,420,16,16,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Repaired and used,Grade 2
+233604000521,23,2,0,17,231,12,0,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+233804003821,23,2,0,15,644,15,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+213306000661,21,3,3,7,392,24,24,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Not used,Grade 4
+237709000141,23,3,0,18,255,21,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+310408000601,31,1,1,0,350,9,9,Flat,Bamboo/Timber,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Not damaged,Grade 1
+312010030401,31,3,3,12,1185,33,33,Flat,RC,RCC/RB/RBC,RC,RCC/RB/RBC,Attached-2 side,Rectangular,Not damaged,Grade 1
+302802001551,30,2,2,50,270,16,16,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 4
+314007003251,31,1,1,7,540,9,9,Flat,Cement-Stone/Brick,RCC/RB/RBC,RC,Not applicable,Not attached,Rectangular,Damaged-Repaired and used,Grade 1
+362407001701,36,3,2,19,315,24,16,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+242306010801,24,2,0,3,460,14,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+120508000591,12,2,2,70,320,20,20,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Not used,Grade 3
+204106001441,20,2,2,8,375,22,22,Flat,Bamboo/Timber,Bamboo/Timber-Heavy roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Used in risk,Grade 2
+236104000701,23,2,0,10,155,12,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Attached-1 side,Rectangular,Damaged-Rubble clear,Grade 5
+233203000251,23,2,0,15,300,14,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Attached-2 side,Rectangular,Damaged-Rubble clear,Grade 5
+311703000201,31,2,2,35,480,18,18,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Not damaged,Grade 1
+237702001091,23,3,1,6,230,18,6,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 4
+245408000661,24,3,2,5,495,24,16,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 1
+213902001471,21,2,2,13,234,18,18,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+301601001301,30,2,0,2,421,13,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+235809002702,23,2,0,17,427,14,0,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Rubble clear,Grade 5
+212905001451,21,3,3,21,364,16,16,Steep slope,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Not damaged,Grade 1
+366203000191,36,2,2,28,561,14,14,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Not used,Grade 4
+213809001101,21,2,2,5,350,18,18,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+205404000461,20,2,2,7,800,25,25,Flat,Bamboo/Timber,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Not damaged,Grade 1
+245405000421,24,2,2,3,405,20,20,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 2
+312007010931,31,1,1,6,900,10,10,Flat,Cement-Stone/Brick,RCC/RB/RBC,Brick/Stone,Not applicable,Not attached,L-shape,Damaged-Used in risk,Grade 3
+311503001041,31,4,4,7,750,36,36,Moderate slope,Cement-Stone/Brick,RCC/RB/RBC,RC,RCC/RB/RBC,Not attached,Rectangular,Damaged-Used in risk,Grade 2
+243004000461,24,2,0,50,360,16,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+125502010091,12,1,1,44,420,9,9,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Attached-1 side,Rectangular,Damaged-Repaired and used,Grade 2
+243205000091,24,2,2,15,475,13,13,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 2
+245009000081,24,2,2,9,512,24,24,Moderate slope,Mud mortar-Stone/Brick,RCC/RB/RBC,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 4
+122902000541,12,2,2,10,322,14,14,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 1
+200308000421,20,2,2,6,468,13,13,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Used in risk,Grade 2
+244404000092,24,2,2,40,400,16,16,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+312902020251,31,2,2,3,320,14,14,Flat,Bamboo/Timber,Bamboo/Timber-Light roof,RC,Timber-Planck,Not attached,Rectangular,Not damaged,Grade 1
+210102000231,21,3,0,13,650,21,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+200203000591,20,2,2,0,410,14,14,Flat,Bamboo/Timber,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Not damaged,Grade 1
+220407013681,22,3,0,16,350,18,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Rubble unclear,Grade 5
+122006000342,12,2,2,2,280,20,20,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Used in risk,Grade 2
+311808000501,31,1,1,9,250,13,13,Flat,Bamboo/Timber,Bamboo/Timber-Light roof,Mud,Not applicable,Attached-2 side,Rectangular,Not damaged,Grade 1
+248303000281,24,2,2,50,300,14,14,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Not used,Grade 3
+202504014631,20,2,2,10,205,16,16,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 5
+246401002671,24,2,0,12,380,20,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Brick/Stone,Timber-Planck,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+282507000391,28,2,2,20,400,14,14,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 3
+301907000121,30,3,1,26,90,21,7,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Not used,Grade 5
+211301000601,21,2,1,15,700,13,7,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Repaired and used,Grade 4
+312006040241,31,2,2,35,205,12,12,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Not used,Grade 4
+237406000281,23,3,2,3,288,25,18,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Brick/Stone,Timber-Planck,Not attached,Rectangular,Damaged-Not used,Grade 3
+364702000991,36,3,3,50,570,25,25,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 4
+362705004211,36,2,2,23,265,14,14,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 3
+123301000431,12,2,2,30,448,16,16,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Used in risk,Grade 3
+311606002801,31,2,0,999,450,14,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+230801000291,23,3,0,80,410,23,0,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+241407000571,24,2,0,15,280,18,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Rubble unclear,Grade 5
+301402001351,30,2,1,13,248,12,6,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Repaired and used,Grade 4
+220410030151,22,3,3,2,701,30,30,Flat,RC,RCC/RB/RBC,RC,RCC/RB/RBC,Not attached,Rectangular,Damaged-Repaired and used,Grade 1
+360402000351,36,2,0,30,528,14,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+245709000881,24,3,3,13,613,22,25,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Not used,Grade 3
+204901000351,20,2,2,5,224,16,16,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Repaired and used,Grade 2
+360209000461,36,2,2,20,560,12,12,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Repaired and used,Grade 3
+280402000762,28,3,0,30,264,22,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+124401000351,12,2,2,12,365,14,14,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 2
+233902000201,23,3,0,43,155,18,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+222405001251,22,3,3,3,275,18,18,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Not used,Grade 4
+211802000211,21,2,2,14,416,12,12,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 3
+233404000091,23,2,0,16,365,16,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+236104000711,23,2,0,10,155,14,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Attached-1 side,Rectangular,Damaged-Rubble unclear,Grade 5
+212401000581,21,2,2,12,350,14,14,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 3
+244208000311,24,2,2,12,450,24,24,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+202009001481,20,2,2,12,504,18,18,Moderate slope,Bamboo/Timber,Bamboo/Timber-Heavy roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Repaired and used,Grade 3
+311602012941,31,2,2,8,341,14,14,Flat,Cement-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Used in risk,Grade 3
+120901000281,12,3,3,9,320,18,18,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 2
+283003000491,28,3,0,24,420,27,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Rubble unclear,Grade 5
+303204001981,30,2,2,6,265,12,12,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 3
+291403000531,29,1,0,9,366,8,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Rubble Clear-New building built,Grade 5
+212006000911,21,2,2,22,252,14,14,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+280807030331,28,2,0,19,396,12,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+300707010521,30,2,2,11,250,14,14,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 2
+220309000181,22,3,3,3,312,15,15,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 3
+244509000131,24,2,2,14,425,19,19,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-2 side,Rectangular,Damaged-Repaired and used,Grade 2
+360702000471,36,2,2,12,384,18,18,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+312702000831,31,2,2,21,450,22,22,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 2
+301303000561,30,2,1,16,240,12,6,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+366704000121,36,2,0,75,595,15,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+303409001751,30,1,0,20,175,11,0,Steep slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+245205000211,24,2,1,10,400,18,9,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,RCC/RB/RBC,Not attached,Rectangular,Damaged-Not used,Grade 3
+124208000081,12,1,1,40,330,6,6,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Not damaged,Grade 1
+245602001441,24,2,2,16,565,12,12,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Attached-1 side,Rectangular,Damaged-Not used,Grade 3
+281405000381,28,2,2,15,216,16,18,Flat,Cement-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 3
+220801001381,22,2,0,20,345,13,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+204004001471,20,2,2,25,350,14,14,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Brick/Stone,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+246605002861,24,2,0,25,600,18,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+242403000061,24,3,0,10,408,22,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+213404001011,21,3,0,25,220,19,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+301105000831,30,2,2,8,223,12,12,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 2
+202105000382,20,2,2,150,200,18,18,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 3
+303807000531,30,2,1,8,780,14,7,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Not used,Grade 5
+313706000241,31,1,1,7,545,9,9,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Not damaged,Grade 1
+236701000071,23,2,0,5,810,12,0,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+360805001341,36,2,2,25,450,18,18,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 3
+231506000861,23,2,0,30,380,14,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+285905001871,28,2,0,12,294,15,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+202704000771,20,1,1,6,291,16,16,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Used in risk,Grade 4
+202909001591,20,1,0,7,450,11,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Rubble Clear-New building built,Grade 5
+362702000631,36,2,0,28,225,16,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Rubble unclear,Grade 5
+364101001491,36,2,0,50,155,19,0,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+243902000573,24,2,2,15,245,22,22,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 4
+365008014431,36,2,0,10,225,16,0,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Brick/Stone,TImber/Bamboo-Mud,Attached-1 side,Square,Damaged-Rubble unclear,Grade 5
+202909001871,20,2,2,20,550,25,25,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+201501000891,20,2,2,2,416,15,15,Flat,Bamboo/Timber,Bamboo/Timber-Heavy roof,RC,Timber-Planck,Not attached,L-shape,Damaged-Repaired and used,Grade 1
+246804000161,24,2,2,17,392,18,18,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 3
+201701000601,20,2,2,12,635,15,15,Flat,Bamboo/Timber,Bamboo/Timber-Heavy roof,Mud,Timber-Planck,Not attached,U-shape,Not damaged,Grade 1
+311307000411,31,2,2,2,750,17,17,Flat,Bamboo/Timber,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Repaired and used,Grade 2
+245103000721,24,2,2,20,288,16,16,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Used in risk,Grade 2
+301202002591,30,2,0,25,265,13,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+361009000072,36,1,1,20,200,8,8,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Brick/Stone,Not applicable,Not attached,Square,Damaged-Repaired and used,Grade 3
+281402001052,28,2,2,25,378,16,16,Flat,Cement-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-2 side,Rectangular,Damaged-Not used,Grade 4
+246503004481,24,2,2,5,486,20,20,Moderate slope,RC,RCC/RB/RBC,RC,RCC/RB/RBC,Attached-1 side,Rectangular,Damaged-Used in risk,Grade 2
+312801011311,31,2,2,25,405,29,29,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 3
+248402000232,24,2,2,5,670,18,18,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,L-shape,Damaged-Repaired and used,Grade 3
+362505001531,36,1,1,1,100,6,6,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Square,Not damaged,Grade 1
+313203003191,31,1,0,5,342,8,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+210908000031,21,2,2,20,180,15,15,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Used in risk,Grade 3
+280804020401,28,1,1,4,550,10,10,Flat,RC,RCC/RB/RBC,RC,Not applicable,Not attached,Rectangular,Damaged-Repaired and used,Grade 1
+203905001421,20,2,2,3,500,16,16,Moderate slope,Bamboo/Timber,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Repaired and used,Grade 3
+362709001771,36,2,2,17,446,18,18,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 2
+202507023161,20,1,1,15,450,8,8,Flat,Bamboo/Timber,Bamboo/Timber-Heavy roof,Mud,Not applicable,Not attached,L-shape,Damaged-Repaired and used,Grade 1
+361301000061,36,2,2,15,750,20,20,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Used in risk,Grade 3
+312011030762,31,1,1,14,360,9,9,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Used in risk,Grade 2
+244103000411,24,2,2,18,150,16,16,Moderate slope,Mud mortar-Stone/Brick,RCC/RB/RBC,RC,RCC/RB/RBC,Attached-1 side,Rectangular,Damaged-Used in risk,Grade 3
+366107001032,36,2,2,15,660,14,14,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Brick/Stone,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+303505021481,30,2,2,12,675,20,20,Flat,RC,RCC/RB/RBC,Brick/Stone,RCC/RB/RBC,Attached-1 side,Rectangular,Not damaged,Grade 1
+124805000301,12,2,2,20,420,12,12,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+313505000251,31,3,3,33,380,18,18,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 5
+312006010391,31,2,2,7,275,12,12,Flat,Cement-Stone/Brick,Bamboo/Timber-Light roof,RC,RCC/RB/RBC,Not attached,Rectangular,Damaged-Repaired and used,Grade 2
+302603000411,30,3,3,14,336,18,18,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Brick/Stone,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+301909001631,30,2,2,24,200,12,12,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Not used,Grade 4
+220404002081,22,3,0,30,456,24,0,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Rubble Clear-New building built,Grade 5
+310405011233,31,1,1,20,524,9,9,Flat,Mud mortar-Stone/Brick,RCC/RB/RBC,RC,Not applicable,Attached-1 side,Rectangular,Damaged-Used in risk,Grade 3
+222108001512,22,2,0,18,320,18,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Brick/Stone,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble Clear-New building built,Grade 5
+312902012411,31,2,2,8,239,10,10,Flat,Bamboo/Timber,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Used in risk,Grade 2
+210403000311,21,2,2,12,220,11,11,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Brick/Stone,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 3
+237104000772,23,2,2,10,388,16,16,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Repaired and used,Grade 3
+303208000881,30,2,2,3,300,14,14,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Not used,Grade 4
+311109001351,31,1,1,10,380,9,9,Flat,Cement-Stone/Brick,Bamboo/Timber-Light roof,Brick/Stone,Not applicable,Not attached,Rectangular,Damaged-Repaired and used,Grade 1
+215409000731,21,2,2,4,400,20,20,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Brick/Stone,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 2
+220410032781,22,3,0,50,360,18,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+363302000741,36,2,2,8,220,15,15,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 2
+221709000691,22,2,2,24,260,15,15,Steep slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Not used,Grade 3
+211009000031,21,3,0,4,200,20,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+301308000301,30,1,1,30,140,8,8,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Used in risk,Grade 3
+201906000311,20,2,2,60,300,22,22,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 4
+300103000333,30,2,2,0,260,12,12,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Brick/Stone,TImber/Bamboo-Mud,Not attached,Rectangular,Not damaged,Grade 1
+203203001391,20,2,2,15,580,18,18,Flat,Bamboo/Timber,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 3
+236709000421,23,2,0,27,441,16,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Rubble clear,Grade 5
+242803000601,24,1,0,30,258,8,0,Steep slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+240802000832,24,2,2,20,195,14,14,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 3
+304408000841,30,2,1,2,336,14,7,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,RC,Timber-Planck,Attached-1 side,Rectangular,Damaged-Not used,Grade 3
+236907001391,23,2,2,6,375,22,22,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 3
+231202001401,23,3,0,55,315,18,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+230808001241,23,3,1,30,200,18,6,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+363107000351,36,2,1,3,500,15,7,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 4
+236408000311,23,2,0,4,474,14,0,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+202506030102,20,3,3,6,460,33,33,Flat,RC,RCC/RB/RBC,RC,RCC/RB/RBC,Attached-2 side,Rectangular,Not damaged,Grade 1
+215409001411,21,2,2,10,320,20,20,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Brick/Stone,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Not used,Grade 2
+122106000251,12,2,2,68,180,10,10,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Brick/Stone,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+210101000591,21,2,0,8,360,14,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+303501000611,30,2,2,15,300,15,15,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 4
+202511000511,20,1,1,20,600,9,9,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Repaired and used,Grade 3
+211207000501,21,1,1,2,586,7,7,Flat,Bamboo/Timber,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Not damaged,Grade 1
+312008051081,31,3,3,21,981,27,27,Flat,RC,RCC/RB/RBC,RC,RCC/RB/RBC,Not attached,Rectangular,Not damaged,Grade 1
+312004082411,31,2,2,14,665,20,20,Flat,RC,RCC/RB/RBC,RC,RCC/RB/RBC,Attached-1 side,Rectangular,Not damaged,Grade 1
+301904001721,30,2,1,3,225,16,8,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Not used,Grade 3
+310501000121,31,2,2,15,458,17,17,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 2
+312010090041,31,1,1,12,1045,9,9,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,RC,Not applicable,Not attached,Rectangular,Damaged-Repaired and used,Grade 2
+220406014461,22,3,3,17,398,18,18,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 3
+312108002161,31,1,1,4,264,7,7,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,RC,Not applicable,Not attached,Rectangular,Damaged-Used in risk,Grade 2
+248103000511,24,2,1,20,300,25,15,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 4
+203504000081,20,2,2,12,286,16,16,Flat,Bamboo/Timber,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Not damaged,Grade 1
+212603000091,21,2,2,14,504,18,18,Steep slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+302908003031,30,2,2,13,190,11,11,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Brick/Stone,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Not used,Grade 2
+237403000671,23,3,0,24,336,25,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Brick/Stone,Timber-Planck,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+247107000022,24,2,0,22,150,12,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+241102000421,24,2,2,20,250,16,16,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Not used,Grade 3
+236404000661,23,2,0,27,468,16,0,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Rubble unclear,Grade 5
+224409000091,22,3,2,14,304,17,14,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+236406000141,23,2,0,5,405,14,0,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+300504000511,30,3,3,45,290,15,15,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+221201000221,22,2,0,32,325,10,0,Steep slope,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble Clear-New building built,Grade 5
+310304001381,31,2,2,8,700,16,16,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 3
+363609003221,36,2,2,4,1100,22,22,Flat,RC,RCC/RB/RBC,RC,RCC/RB/RBC,Not attached,Rectangular,Damaged-Used in risk,Grade 2
+240108000711,24,3,3,3,350,24,24,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 2
+201308000021,20,2,2,15,375,17,17,Flat,Bamboo/Timber,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 2
+314006021051,31,2,2,15,350,15,15,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,RC,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Not damaged,Grade 1
+242103000031,24,3,3,5,360,21,21,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 3
+231202001771,23,3,0,24,352,18,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Rubble clear,Grade 5
+285903001271,28,2,1,9,450,15,6,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Used in risk,Grade 4
+361901000201,36,2,0,22,252,24,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Attached-1 side,Rectangular,Damaged-Rubble Clear-New building built,Grade 5
+215505000341,21,2,2,22,355,14,14,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 3
+285006000591,28,3,3,5,1024,20,20,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 4
+211802000552,21,2,2,9,250,12,12,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 3
+212305000321,21,2,2,12,310,18,18,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+246503003151,24,3,1,27,335,23,9,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-2 side,Rectangular,Damaged-Not used,Grade 4
+312010100341,31,3,3,6,1093,30,30,Flat,RC,RCC/RB/RBC,RC,RCC/RB/RBC,Attached-1 side,Rectangular,Damaged-Used in risk,Grade 2
+362603000031,36,2,0,12,500,15,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+202704000081,20,1,1,26,311,16,16,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Used in risk,Grade 4
+244902002551,24,2,2,8,900,16,16,Flat,RC,RCC/RB/RBC,RC,RCC/RB/RBC,Attached-1 side,Rectangular,Damaged-Used in risk,Grade 2
+314101000822,31,2,2,19,475,16,16,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+214904000541,21,2,2,13,324,18,18,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 3
+203502000251,20,2,2,9,625,12,12,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Repaired and used,Grade 2
+364206000551,36,2,0,7,390,14,0,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Rubble Clear-New building built,Grade 5
+243608000501,24,3,0,20,405,18,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Brick/Stone,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Rubble unclear,Grade 5
+314004023131,31,2,2,15,350,16,16,Flat,Bamboo/Timber,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 3
+300708000831,30,3,2,25,265,17,12,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 3
+237807000611,23,1,1,13,616,11,11,Flat,RC,RCC/RB/RBC,RC,Not applicable,Not attached,L-shape,Not damaged,Grade 1
+201607000581,20,2,2,17,213,12,12,Moderate slope,Bamboo/Timber,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 3
+311102021041,31,1,1,15,384,12,12,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Brick/Stone,Not applicable,Attached-1 side,Rectangular,Damaged-Used in risk,Grade 3
+365804000701,36,2,2,30,525,15,15,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 4
+281803001991,28,3,2,18,320,21,16,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 3
+311101022951,31,2,2,12,476,17,17,Flat,Bamboo/Timber,Bamboo/Timber-Heavy roof,RC,Timber-Planck,Not attached,Rectangular,Damaged-Repaired and used,Grade 3
+230808000161,23,2,0,40,200,14,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+313901001011,31,2,2,30,304,14,14,Flat,Bamboo/Timber,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 2
+283306000191,28,1,1,3,900,9,9,Flat,Mud mortar-Stone/Brick,RCC/RB/RBC,RC,Not applicable,Not attached,Rectangular,Damaged-Used in risk,Grade 3
+311807010451,31,2,2,29,270,18,18,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Repaired and used,Grade 4
+285901002271,28,2,2,10,263,16,16,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+280806021421,28,1,1,11,260,9,9,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Not used,Grade 4
+234303000791,23,3,0,11,576,21,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+123604000721,12,2,0,18,500,17,0,Steep slope,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+301109000151,30,2,2,30,260,12,12,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 3
+314008002532,31,1,1,1,620,9,9,Flat,RC,RCC/RB/RBC,RC,Not applicable,Not attached,Rectangular,Damaged-Used in risk,Grade 2
+304209000531,30,2,0,20,160,16,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Attached-1 side,Rectangular,Damaged-Rubble Clear-New building built,Grade 5
+202605000091,20,2,0,13,365,21,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+236702000481,23,1,0,16,698,6,0,Steep slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+364306000961,36,1,1,7,734,14,14,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,RC,Not applicable,Not attached,Rectangular,Damaged-Used in risk,Grade 2
+230509001111,23,3,0,7,540,18,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Brick/Stone,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble Clear-New building built,Grade 5
+241008000011,24,2,1,36,300,15,11,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 4
+300703001801,30,2,1,22,280,14,7,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 3
+285701002361,28,3,1,35,264,21,7,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 4
+237709000911,23,3,0,25,202,21,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+301902001681,30,2,2,17,150,13,13,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+366405000331,36,2,2,50,600,18,18,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 3
+214306000621,21,2,2,20,396,12,12,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Not used,Grade 4
+302204001171,30,2,1,15,441,14,7,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Not used,Grade 4
+202509011661,20,2,2,15,208,15,15,Flat,Bamboo/Timber,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Not used,Grade 4
+223406010081,22,2,0,7,200,18,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+223206000341,22,3,0,25,363,18,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+204602000951,20,2,2,18,426,12,12,Flat,Other,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,L-shape,Damaged-Used in risk,Grade 4
+201902000171,20,2,2,3,400,20,20,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 3
+240105000081,24,2,0,13,360,14,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+310403004331,31,2,2,10,150,12,12,Flat,Bamboo/Timber,Bamboo/Timber-Light roof,RC,Timber-Planck,Not attached,Rectangular,Not damaged,Grade 1
+360705000281,36,3,3,27,459,21,21,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Used in risk,Grade 4
+314008003361,31,2,2,10,304,15,15,Flat,Bamboo/Timber,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 2
+303505052351,30,2,2,5,684,18,18,Flat,RC,RCC/RB/RBC,RC,RCC/RB/RBC,Not attached,Rectangular,Not damaged,Grade 1
+240908000121,24,2,0,70,722,18,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+310401000371,31,2,2,8,476,18,18,Flat,Bamboo/Timber,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 2
+302001000921,30,2,0,30,280,14,0,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+220203000211,22,1,0,1,170,7,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+233703000911,23,2,0,15,380,14,0,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble Clear-New building built,Grade 5
+213407000031,21,2,2,50,326,12,12,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Brick/Stone,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+245201001131,24,2,1,20,495,24,10,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Repaired and used,Grade 4
+284402000411,28,3,0,10,285,18,0,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Rubble unclear,Grade 5
+220410010511,22,2,2,10,145,12,12,Flat,Cement-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 3
+284205001571,28,3,0,80,315,21,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+311409000921,31,2,2,2,240,8,8,Flat,Bamboo/Timber,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 2
+120501000562,12,2,0,4,476,15,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Rubble Clear-New building built,Grade 5
+120704000751,12,2,2,7,300,17,17,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 2
+223001000921,22,3,0,25,303,21,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+311504000281,31,2,2,22,450,14,14,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 3
+245708000191,24,2,2,10,1368,20,20,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Used in risk,Grade 3
+282509000791,28,3,3,4,500,22,22,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 3
+290108000671,29,2,0,30,265,29,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+204601000301,20,2,2,10,392,13,13,Flat,Bamboo/Timber,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 3
+224104001251,22,3,0,21,375,21,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+247005000251,24,2,2,12,290,19,19,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 3
+223106000111,22,3,1,17,304,18,6,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 4
+304202001661,30,2,1,17,305,17,8,Flat,Cement-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 4
+311904001421,31,2,2,2,750,14,14,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,RC,TImber/Bamboo-Mud,Not attached,Rectangular,Not damaged,Grade 1
+310207000031,31,2,2,12,330,16,16,Flat,Bamboo/Timber,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 2
+202502001501,20,1,1,3,715,11,11,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,RC,Not applicable,Not attached,Rectangular,Damaged-Used in risk,Grade 2
+245606000371,24,2,0,27,325,12,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+234404000861,23,2,0,7,315,18,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+123504000121,12,2,0,40,1090,14,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+222402001541,22,3,1,16,450,20,8,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+210609000751,21,2,2,25,420,19,19,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 3
+214708001971,21,2,2,25,320,17,17,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+213007000491,21,3,3,10,404,17,17,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,Timber-Planck,Not attached,L-shape,Damaged-Not used,Grade 3
+121502000211,12,2,2,17,273,18,18,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Brick/Stone,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 4
+363408000351,36,1,1,80,540,9,9,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Repaired and used,Grade 2
+313002000191,31,2,2,13,328,15,15,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 3
+236301001021,23,3,0,33,402,18,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+304205001721,30,2,1,10,247,16,10,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Repaired and used,Grade 4
+233401001161,23,2,2,20,553,18,18,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+285203000041,28,3,0,20,175,25,0,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+123507000611,12,2,2,44,450,18,18,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Not damaged,Grade 1
+311105003421,31,1,1,4,200,9,9,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Not damaged,Grade 1
+202704000762,20,1,1,25,361,16,16,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Used in risk,Grade 4
+314004013691,31,2,0,15,350,14,0,Flat,Bamboo/Timber,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+237706001761,23,3,0,37,364,20,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Rubble unclear,Grade 5
+281202000711,28,3,0,21,714,21,0,Steep slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Brick/Stone,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+364306001451,36,2,2,50,468,19,19,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Not used,Grade 3
+312706000041,31,2,2,5,240,22,22,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 4
+223004000171,22,3,1,3,203,21,7,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+236804000661,23,3,3,30,720,27,27,Flat,RC,RCC/RB/RBC,RC,RCC/RB/RBC,Attached-2 side,Rectangular,Damaged-Not used,Grade 4
+313504001001,31,1,1,3,550,7,7,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Not used,Grade 4
+231006000681,23,2,0,20,470,14,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+361207000881,36,2,1,50,145,15,7,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Not used,Grade 5
+235707000831,23,3,3,14,540,27,27,Flat,RC,RCC/RB/RBC,RC,RCC/RB/RBC,Attached-1 side,Rectangular,Damaged-Repaired and used,Grade 1
+231008002231,23,2,2,3,545,14,14,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Not used,Grade 4
+231507000681,23,2,0,21,286,12,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Brick/Stone,Timber-Planck,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+224409001051,22,3,3,26,304,16,16,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 3
+285303000231,28,2,0,15,265,16,0,Steep slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+280809043611,28,2,0,9,250,17,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Rubble clear,Grade 5
+125109000541,12,2,0,18,155,16,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+203304000241,20,2,2,15,260,20,20,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+246401001491,24,2,1,7,365,20,10,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Not used,Grade 4
+360205000271,36,2,0,25,391,12,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble Clear-New building built,Grade 5
+237805001011,23,3,0,48,228,20,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+125505000392,12,2,2,7,500,14,14,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Brick/Stone,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 2
+311408000081,31,2,2,4,394,15,15,Flat,Bamboo/Timber,Bamboo/Timber-Heavy roof,Mud,Timber-Planck,Not attached,Rectangular,Not damaged,Grade 1
+313901001162,31,2,2,14,304,14,14,Flat,Bamboo/Timber,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 3
+243701001021,24,2,2,16,385,15,15,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Used in risk,Grade 2
+285207000441,28,4,2,54,207,36,18,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+249002000241,24,2,2,15,800,18,18,Flat,RC,RCC/RB/RBC,RC,RCC/RB/RBC,Not attached,Rectangular,Not damaged,Grade 1
+235803001931,23,3,3,15,350,18,18,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+210604001082,21,2,2,12,345,20,20,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Timber,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 2
+361904000091,36,2,0,12,504,24,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+246502003591,24,3,1,18,375,15,6,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 4
+304108003461,30,2,2,3,561,20,20,Flat,RC,Bamboo/Timber-Light roof,RC,RCC/RB/RBC,Attached-1 side,Rectangular,Damaged-Repaired and used,Grade 2
+214104000991,21,2,1,15,293,12,9,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 4
+120202000221,12,3,3,17,391,21,21,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 3
+281509000581,28,2,0,10,400,16,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Square,Damaged-Rubble unclear,Grade 5
+312407000421,31,1,1,25,200,11,11,Moderate slope,Bamboo/Timber,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Repaired and used,Grade 3
+214905000061,21,3,3,20,317,20,20,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 3
+121806000071,12,1,1,27,263,7,7,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Used in risk,Grade 4
+311806011231,31,1,1,11,382,10,10,Flat,Bamboo/Timber,Bamboo/Timber-Light roof,Mud,Not applicable,Attached-3 side,Rectangular,Damaged-Repaired and used,Grade 3
+223704000131,22,3,3,35,903,18,18,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Brick/Stone,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+235802001071,23,2,0,20,570,10,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+213904001271,21,2,2,10,986,18,18,Steep slope,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+304701000871,30,2,2,25,300,25,25,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+312002040061,31,2,2,40,792,18,18,Flat,Cement-Stone/Brick,Bamboo/Timber-Light roof,RC,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 2
+240802000311,24,2,2,40,221,16,16,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 3
+285504001641,28,2,0,20,252,7,0,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Timber-Planck,Not attached,Rectangular,Damaged-Rubble Clear-New building built,Grade 5
+234003000811,23,3,0,4,396,21,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+302309000251,30,2,0,11,402,18,0,Steep slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Square,Damaged-Rubble Clear-New building built,Grade 5
+281509001081,28,2,2,20,440,16,16,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+222406011361,22,2,0,2,350,15,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+224905000581,22,3,0,15,416,20,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+121202000361,12,1,1,20,280,11,11,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Not damaged,Grade 1
+203504000881,20,2,0,13,448,16,0,Flat,Bamboo/Timber,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble Clear-New building built,Grade 5
+284102000571,28,1,1,7,400,9,9,Flat,Cement-Stone/Brick,Bamboo/Timber-Light roof,Brick/Stone,Not applicable,Attached-1 side,Rectangular,Damaged-Not used,Grade 4
+302107002221,30,2,1,15,338,14,6,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Used in risk,Grade 2
+210503000471,21,2,2,32,250,10,10,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 4
+122706000031,12,2,2,26,240,13,13,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 4
+291308000711,29,2,0,7,600,20,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Brick/Stone,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Rubble clear,Grade 5
+244705000371,24,2,2,20,455,22,22,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Not used,Grade 3
+291601000151,29,2,0,11,750,22,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,Timber-Planck,Attached-1 side,Rectangular,Damaged-Rubble Clear-New building built,Grade 5
+311404000371,31,1,1,14,420,12,12,Flat,Bamboo/Timber,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Repaired and used,Grade 3
+202804000241,20,2,0,10,216,14,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+312008071011,31,1,1,5,650,9,9,Flat,Cement-Stone/Brick,RCC/RB/RBC,RC,Not applicable,Attached-1 side,Rectangular,Damaged-Used in risk,Grade 3
+285807000161,28,2,2,22,260,14,14,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 2
+363703010361,36,1,0,18,375,14,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Rubble Clear-New building built,Grade 5
+243403001491,24,3,3,16,498,21,21,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Not used,Grade 4
+286002000811,28,2,0,20,435,18,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Rubble unclear,Grade 5
+202506030241,20,1,1,7,520,8,8,Flat,Cement-Stone/Brick,Bamboo/Timber-Heavy roof,RC,Not applicable,Not attached,L-shape,Damaged-Used in risk,Grade 4
+280707000371,28,2,0,26,480,20,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble Clear-New building built,Grade 5
+237708000541,23,2,0,28,488,15,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Attached-1 side,Rectangular,Damaged-Rubble unclear,Grade 5
+236502000631,23,2,1,12,325,12,6,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 4
+237009000521,23,3,0,37,400,20,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+312305000171,31,1,1,30,255,14,14,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Used in risk,Grade 3
+364203001961,36,2,0,3,322,14,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,RC,Timber-Planck,Attached-1 side,Rectangular,Damaged-Rubble Clear-New building built,Grade 5
+310601001241,31,2,2,20,420,15,15,Flat,Cement-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Used in risk,Grade 3
+235109000531,23,3,0,59,782,21,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Heavy roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5
+312407002151,31,1,0,12,250,9,0,Flat,Bamboo/Timber,Bamboo/Timber-Light roof,Mud,Not applicable,Not attached,Rectangular,Damaged-Rubble Clear-New building built,Grade 5
+282704000991,28,2,0,28,1083,16,0,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble unclear,Grade 5
+301105000681,30,2,2,11,223,12,12,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 2
+281303012021,28,2,1,15,350,20,10,Flat,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Repaired and used,Grade 4
+235807000621,23,2,0,5,427,14,0,Moderate slope,Mud mortar-Stone/Brick,Bamboo/Timber-Light roof,Mud,TImber/Bamboo-Mud,Not attached,Rectangular,Damaged-Rubble clear,Grade 5

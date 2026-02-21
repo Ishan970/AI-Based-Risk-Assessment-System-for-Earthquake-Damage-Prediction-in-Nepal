@@ -1,0 +1,2 @@
+# Ignore full dataset (too large for GitHub)
+data/NepalEarhquakeDamage2015.csv

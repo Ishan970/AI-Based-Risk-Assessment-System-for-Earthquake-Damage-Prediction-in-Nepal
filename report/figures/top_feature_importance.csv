@@ -1,0 +1,16 @@
+feature,importance
+num__plinth_area_sq_ft,0.19203506048483307
+num__age_building,0.19181985722585002
+num__height_ft_pre_eq,0.14093668333171008
+cat__foundation_type_Mud mortar-Stone/Brick,0.06134649074182268
+num__count_floors_pre_eq,0.0461154374744014
+cat__ground_floor_type_RC,0.044358543502181005
+cat__other_floor_type_TImber/Bamboo-Mud,0.03368000142833748
+cat__ground_floor_type_Mud,0.02407394743310197
+cat__roof_type_RCC/RB/RBC,0.022936338938755914
+cat__foundation_type_Bamboo/Timber,0.02201898988026095
+cat__roof_type_Bamboo/Timber-Light roof,0.019992672716581956
+cat__roof_type_Bamboo/Timber-Heavy roof,0.01873467737655462
+cat__land_surface_condition_Flat,0.018513450101319454
+cat__land_surface_condition_Moderate slope,0.018002076464112133
+cat__position_Not attached,0.01649818882658609

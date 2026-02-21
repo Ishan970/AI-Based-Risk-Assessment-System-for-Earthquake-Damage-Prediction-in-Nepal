@@ -20,5 +20,5 @@ LEAKAGE_COLS = [
 # Identifier column (not useful for prediction)
 ID_COLS = ["building_id"]
 
-# Optional drop (leave empty for now)
-OPTIONAL_DROP_COLS = []
+# Optional drop (we drop district_id so CLI doesn't need it)
+OPTIONAL_DROP_COLS = ["district_id"]

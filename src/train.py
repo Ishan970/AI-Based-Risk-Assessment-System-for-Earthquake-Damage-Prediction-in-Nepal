@@ -163,9 +163,7 @@ def main():
     best_rf = search.best_estimator_
     r2 = evaluate_model("Random Forest (Tuned)", best_rf, X_test, y_test)
 
-    # ---------------------------
-    # Select Best Model
-    # ---------------------------
+    # Select Best Model Based on F1 Macro
     best = max([r1, r2], key=lambda r: r.f1_macro)
 
     model_path = MODELS_DIR / "best_model.joblib"
